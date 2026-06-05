@@ -32,6 +32,7 @@ Brajira is a retail supermarket chain operating three branches across Myanmar.
 **Dataset Size:** 3.48 MB
 
 The dataset contains transactional sales data, customer information, product categories, payment methods, ratings, and branch-level performance metrics.
+![](images/Picture1.png)
 
 ## Tools & Technologies
 
@@ -95,21 +96,11 @@ Timelines
 
 ## Dashboard Screenshots
 
-### Executive Dashboard
+![](images/Picture2.png)
 
-![placeholder](https://markdowntoword.io/placeholder.png)
+![](images/Picture3.png)
 
-### Branch Performance Dashboard
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-### Product Performance Dashboard
-
-![placeholder](https://markdowntoword.io/placeholder.png)
-
-### Customer Insights Dashboard
-
-![placeholder](https://markdowntoword.io/placeholder.png)
+![](images/Picture4.png)
 
 ## Key Business Insights
 
